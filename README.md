@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel Chris
 - 👀 I’m a Cloud Engineer
-- 🌱 I’m currently training as an AWS Certified Cloud Practioner
+- 🌱 I’m currently training as an AWS Certified Cloud Practitioner
 - 💞️ I’m looking to collaborate on slack
 - 📫 How to reach me 08168022108 (via email-- jayd4172@gmail.com)
 
